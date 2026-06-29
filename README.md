@@ -28,6 +28,7 @@ quaisquer leis. Este repositório é parte do meu portfolio. Parte do trabalho a
 1. Segurança Cibernética
    1. [Acesso não autorizado ao Linux](hack-linux/README.md)
    2. [Vazamento de senhas](hack-senhas/README.md)
+   3. Ensaio sobre [Segurança by Design](Segurança/README.md)
 2. [Agradecimentos e Contato](#agradecimentos-e-contato)
 3. [Licença](#licença)
 
