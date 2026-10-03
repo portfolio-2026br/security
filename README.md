@@ -18,6 +18,7 @@ quaisquer leis. Este repositório é parte do meu portfolio. Este documento foi 
    1. [Acesso não autorizado ao Linux](hack-linux/README.md)
    2. [Vazamento de senhas](hack-senhas/README.md)
    3. Ensaio sobre [Segurança by Design](Segurança/README.md)
+   4. Ensaio sobre [Manter-se Vigilante](Vigilante/README.md)
 2. [Agradecimentos e Contato](#agradecimentos-e-contato)
 3. [Licença](#licença)
 
